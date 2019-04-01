@@ -5,7 +5,7 @@ This Repo exists for my own purpose of starting a fast graphql project through d
 If you somehow want to use this you can use the following steps to get started.
 
 ## 🔥 Getting Started 🔥
-for every following step:
+for every following step you need to have these done in the first place:
 - install docker
 - clone this repo
 
