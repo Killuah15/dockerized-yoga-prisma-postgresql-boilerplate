@@ -1,6 +1,7 @@
 {
   "name": "minimal",
   "version": "1.0.0",
+  "private": true,
   "description": "A graphql-prisma-postgresql typescript dockerized database boilerplate",
   "main": "index.ts",
   "scripts": {
