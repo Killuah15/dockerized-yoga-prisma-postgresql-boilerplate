@@ -1,0 +1,1 @@
+# 🚀 GraphQL boilerplate with prisma-client and GraphQL-Yoga

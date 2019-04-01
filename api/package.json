@@ -1,0 +1,24 @@
+{
+  "name": "minimal",
+  "version": "1.0.0",
+  "description": "A graphql-prisma-postgresql typescript dockerized database boilerplate",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "npm-run-all --parallel start playground",
+    "playground": "graphql playground"
+  },
+  "keywords": [],
+  "author": "Devan Beitel, Robin Dürhager",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "1.17.4",
+    "prisma-client-lib": "^1.29.2"
+  },
+  "devDependencies": {
+    "graphql-cli": "2.17.0",
+    "npm-run-all": "4.1.5",
+    "ts-node": "6.2.0",
+    "typescript": "2.9.2"
+  }
+}
