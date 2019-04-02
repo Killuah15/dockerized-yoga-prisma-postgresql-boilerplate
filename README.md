@@ -1,4 +1,6 @@
-# GraphQL-Yoga boilerplate with prisma-client 🚀
+# 🔥 GraphQL-Yoga boilerplate with prisma-client 🔥
+
+🚀 Bootstrapped from [GraphQL-typescript basic server boilerplate](https://github.com/graphql-boilerplates/typescript-graphql-server)
 
 ## Description
 This Repo exists for my own purpose of starting a fast graphql project through docker.
